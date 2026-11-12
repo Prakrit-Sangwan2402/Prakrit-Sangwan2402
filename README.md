@@ -2,7 +2,7 @@
 
 # ⚡ PLAYER STATUS: PRAKRIT SANGWAN ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20,30&height=120&section=header&text=CS%20Undergraduate%20&%20Full-Stack%20Wizard&fontSize=22&fontColor=fff&animation=fadeIn" width="100%" />
+![](https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20,30&height=120§ion=header&text=CS%20Undergraduate%20%26%20Full-Stack%20Wizard&fontSize=22&fontColor=fff&animation=fadeIn)
 
 [![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=TOTAL+QUEST+VISITORS)](https://github.com/YOUR_USERNAME)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Grinding-1f8ac0?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/)
